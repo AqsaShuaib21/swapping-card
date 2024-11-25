@@ -69,7 +69,6 @@ padding-left:15px;
 .card:hover{
     transform: rotateX(360deg);
 }
-/* back face  starting me rotate karne se flipping baad seedha dikhega*/
 .back-face{
     transform: rotateY(180deg);
 }
